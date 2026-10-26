@@ -1,3 +1,12 @@
+# 🎮 Pixel Woods
+
+A fun Hangman game featuring online multiplayer gameplay.
+
+🌐 **Play the live game:** https://pixel-woods.vercel.app/
+
+💻 **Source code:** https://github.com/mehakramdeo-max/Pixel-Woods
+
+⚙️ **Technology stack:** React, Vite, Node.js, and Socket.IO.
 # Pixel Woods Hangman
 
 Pixel Woods is a retro arcade Hangman game built with React and Vite. Play solo, take turns
